@@ -1,4 +1,4 @@
-public class Add extends Operation{
+public class Add extends Operation implements OperInterface{
 
     Add(float a, float b) {
         super(a, b);

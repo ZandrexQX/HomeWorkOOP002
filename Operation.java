@@ -5,10 +5,6 @@ public abstract class Operation {
         this.a = a;
         this.b = b;
     }
-    float oper(){
-        return 0f;
-    };
-
     public float getA() {
         return a;
     }
